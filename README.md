@@ -24,15 +24,15 @@ Experienced **Data Engineer** and **Tech Lead** with a proven track record in th
 
 ### **Various Roles** @ [TCS](https://www.tcs.com/)
 - #### **Python Developer** @ [PWC](https://www.pwc.com/)
-- Developed tools and web scraping scripts, and generated reports using **Python**, **Linux**, **Shell scripting**, **Batch scripting**, and **SQL**.
+    - Developed tools and web scraping scripts, and generated reports using **Python**, **Linux**, **Shell scripting**, **Batch scripting**, and **SQL**.
 
 - #### **GCP Data Engineer** @ [Ingram Micro](https://www.ingrammicro.com/)
-- Migrated data to **Google Cloud** using **Apache Beam**, **Python**, **SQL**, and **GCP**.
-- Created a tool to translate **Oracle DDLs** to **BigQuery DDL** using Python.
+    - Migrated data to **Google Cloud** using **Apache Beam**, **Python**, **SQL**, and **GCP**.
+    - Created a tool to translate **Oracle DDLs** to **BigQuery DDL** using Python.
 
 - #### **Senior Software Developer** @ [Google](https://www.google.com/)
-- Worked with **Google Document AI** to pre-train models and test performance.
-- Assisted clients with **data migration** and **data engineering** tasks using **Python**, **PySpark**, **Apache Beam**, **Airflow**, **Vertex AI**, **Document AI**, **SQL**, **Pandas**, **Kafka**, etc.
+    - Worked with **Google Document AI** to pre-train models and test performance.
+    - Assisted clients with **data migration** and **data engineering** tasks using **Python**, **PySpark**, **Apache Beam**, **Airflow**, **Vertex AI**, **Document AI**, **SQL**, **Pandas**, **Kafka**, etc.
 
 ---
 
